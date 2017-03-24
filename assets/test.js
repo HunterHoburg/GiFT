@@ -1,1 +1,1 @@
-var variable = 'hello ';
+var variable = 'hello world';
